@@ -14,6 +14,7 @@ public class SampleB extends SampleA{
         SampleB sb= new SampleB();
         sb.bank();
         System.out.println("b: "+sb.b);
+        System.out.println("Welcome to Git");
 
     }
 }
